@@ -5,8 +5,25 @@
       <map>
         <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/drawable/button_background.xml" value="0.240625" />
         <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/drawable/edit_text_backgraound.xml" value="0.159" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/drawable/ic_add_foreground.xml" value="0.1575" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/drawable/ic_close_foreground.xml" value="0.1575" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/drawable/ic_heart_foreground.xml" value="0.1575" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/drawable/ic_home_background.xml" value="0.1575" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/drawable/ic_home_foreground.xml" value="0.1575" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/drawable/ic_person_background.xml" value="0.1575" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/drawable/ic_person_foreground.xml" value="0.1575" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/drawable/ic_search_foreground.xml" value="0.1575" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/layout/activity_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/layout/activity_main.xml" value="0.22135416666666666" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/layout/activity_post.xml" value="0.22135416666666666" />
         <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/layout/activity_register.xml" value="0.22447916666666667" />
         <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/layout/activity_start.xml" value="0.2" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/layout/fragment_home.xml" value="0.22135416666666666" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/layout/fragment_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/layout/fragment_profile.xml" value="0.22135416666666666" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/menu/bottom_menu.xml" value="0.2203125" />
+        <entry key="..\:/MANAS Android Projects/InstaLike/app/src/main/res/mipmap-anydpi-v26/ic_pearson.xml" value="0.1575" />
       </map>
     </option>
   </component>

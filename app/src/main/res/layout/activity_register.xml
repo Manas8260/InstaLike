@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:fontFamily="@font/aladin"
-        android:text="InstaLite"
+        android:text="InstaLike"
         android:textColor="@color/white"
         android:textAlignment="center"
         android:textSize="45dp" />
@@ -76,10 +76,11 @@
         android:padding="10dp"/>
 
     <TextView
+        android:id="@+id/login_user"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Already a user? Login"
         android:textColor="@color/white"
         android:layout_marginTop="15dp"
-        android:id="@+id/login_user"/>
+       />
 </LinearLayout>
